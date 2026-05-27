@@ -28,12 +28,8 @@ Here are some ideas to get you started:
 |-----------|---------|--------|-----------|---------|-------------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Py"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40" alt="PW"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" alt="Sel"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" alt="Pytest"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" alt="GH"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PG"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30" alt="K8s" style="opacity:0.6"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="Java" style="opacity:0.6"/> |
 
-<div></div>
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lmveilfire&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/lmveilfire)
+### Activity
+[![Top Languages](https://github-readme-stats-taupe-sigma-30.vercel.app/api/top-langs/?username=lmveilfire&layout=compact&theme=github_dark&hide_border=true&card_width=500)](https://github.com/lmveilfire)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lmveilfire&theme=github-dark&card_width=300)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lmveilfire&layout=compact&theme=github_dark&hide_border=true)](https://github.com/lmveilfire)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lmveilfire&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![sideglance-qa](https://github-readme-stats.vercel.app/api/pin/?username=lmveilfire&repo=sideglance-qa&theme=github_dark&hide_border=true)](https://github.com/lmveilfire/sideglance-qa)
-</div>
