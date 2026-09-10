@@ -1,11 +1,11 @@
 <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 16px; background-color: #f6f8fa; margin: 16px 0;">
-&emsp;Hi, I'm Lyusi Mur, a QA Automation Engineer. I build reliable test systems and write code with a developer's mindset. I use object-visual thinking to structure logic clearly. I'm passionate about development and comfortable adapting my stack to solve engineering problems, not just test them. I believe strong automation starts with solid manual testing and exploratory skills. Previous experience includes CI/CD pipelines, Docker, and basic Kubernetes deployments.
+&emsp;Hi, I'm Lyusi Mur, a QA Automation Engineer. I build reliable test systems and write code with a developer's mindset comfortable adapting my stack to solve engineering problems, not just test around them. My experience spans CI/CD pipelines, Docker, and Kubernetes environments, where I use kubectl and Lens for diagnostics.
 </div>
 
 ### Approach
-- **Automation First:** I build stable, maintainable test suites to cover regressions
-- **Manual & Exploratory:** I validate new features manually before automating, because understanding user flows is key
-- **Full Cycle:** From requirements analysis to CI/CD integration and reporting
+- **Automation First:** I build stable, maintainable test suites that catch regressions early
+- **Manual & Exploratory:** Before automating a new feature, I validate it manually — understanding real user flows is what makes the automation actually useful
+- **Full Cycle:** From requirements analysis through CI/CD integration to reporting
 <br>
 
 ## Tech Stack
