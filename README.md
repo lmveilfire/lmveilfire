@@ -16,6 +16,6 @@
 
 ### Activity
 [![Top Languages](https://github-readme-stats-taupe-sigma-30.vercel.app/api/top-langs/?username=lmveilfire&layout=compact&theme=github_dark&hide_border=true&card_width=500)](https://github.com/lmveilfire)
-[![GitHub Streak](https://streak-stats.demolab.com?user=lmveilfire&theme=github-dark&card_width=300)](https://git.io/streak-stats)
+
 
 
